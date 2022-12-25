@@ -37,4 +37,4 @@ AlmaBetter Project Description for addition information: https://grow.almabetter
 Study Resource : https://scikit-learn.org/stable/modules/multiclass.html
 
 
-![](https://media3.giphy.com/media/h26R1JMxiqYpwp0rkF/giphy.gif?cid=ecf05e47ilmxdo43m25wouxmc4cnewrsh4e5sc3uegwen0zh&rid=giphy.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/109847409/209484424-44747c37-4ece-4cd1-88c2-80439366eab7.gif)
