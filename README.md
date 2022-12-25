@@ -36,6 +36,8 @@ AlmaBetter Project Description for addition information: https://grow.almabetter
 
 Study Resource : https://scikit-learn.org/stable/modules/multiclass.html
 
+For more Coronavirus related info please visit: https://www.cdc.gov/coronavirus/2019-ncov/index.html
+
 **And Finally...**
 
 ![giphy (1)](https://user-images.githubusercontent.com/109847409/209484487-dda00680-1f87-45be-9f6a-4c4adc4cc63a.gif)
