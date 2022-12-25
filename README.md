@@ -1,11 +1,9 @@
 ![Capture](https://user-images.githubusercontent.com/109847409/209483977-facec311-98fd-44e1-9045-d4feebab6cce.PNG)
-# Data Science Capstone Project: Coronavirus_Tweet_Sentiment_Analysis
+# Data Science Capstone Project: Coronavirus_Tweet_Sentiment_Analysis 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.11.1](https://img.shields.io/badge/python-3.11.1-blue.svg)](https://www.python.org/downloads/release/python-3111/)   
 
-## Source
-- [Kaggle TMDB Movie 5000 Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 Created by **Sanket Chouriya**
 
@@ -38,4 +36,5 @@ AlmaBetter Project Description for addition information: https://grow.almabetter
 
 Study Resource : https://scikit-learn.org/stable/modules/multiclass.html
 
-<iframe src="https://giphy.com/embed/h26R1JMxiqYpwp0rkF" width="480" height="413" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2020-mask-pandemic-h26R1JMxiqYpwp0rkF">via GIPHY</a></p>
+
+![](https://media3.giphy.com/media/h26R1JMxiqYpwp0rkF/giphy.gif?cid=ecf05e47ilmxdo43m25wouxmc4cnewrsh4e5sc3uegwen0zh&rid=giphy.gif)
