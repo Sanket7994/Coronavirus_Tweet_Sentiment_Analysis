@@ -41,3 +41,19 @@ For more Coronavirus related info please visit: https://www.cdc.gov/coronavirus/
 **And Finally...**
 
 ![giphy (1)](https://user-images.githubusercontent.com/109847409/209484487-dda00680-1f87-45be-9f6a-4c4adc4cc63a.gif)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<h2 id="credits"> :scroll: Credits</h2>
+
+Sanket Chouriya| Data Science enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-chouriya-038705111/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanket7994)
+[![Kaggle Badge](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanket7994/)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
