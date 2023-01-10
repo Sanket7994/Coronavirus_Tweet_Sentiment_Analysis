@@ -1,5 +1,6 @@
 ![Capture](https://user-images.githubusercontent.com/109847409/209483977-facec311-98fd-44e1-9045-d4feebab6cce.PNG)
 # Data Science Capstone Project: Coronavirus_Tweet_Sentiment_Analysis 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.11.1](https://img.shields.io/badge/python-3.11.1-blue.svg)](https://www.python.org/downloads/release/python-3111/)   
